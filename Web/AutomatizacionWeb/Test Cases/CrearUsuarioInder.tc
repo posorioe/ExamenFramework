@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Caso de Prueba para creación exitosa de usuario en la página http://simon.inder.gov.co/registro</description>
+   <name>CrearUsuarioInder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b28fbb6f-1710-4934-a78c-fc65e272049a</testCaseGuid>
+</TestCaseEntity>
